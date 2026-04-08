@@ -15,6 +15,7 @@ The results data are available at:
 The following prompts were used for the experiments in the paper.
 - Experiment 1A: [prompt-1A](https://github.com/exwb/truevislies/blob/main/prompts/prompt-1A.py)
 - Experiment 1B: [prompt-1B](https://github.com/exwb/truevislies/blob/main/prompts/prompt-1B.py)
+- Experiment 1C: [prompt-1B](https://github.com/exwb/truevislies/blob/main/prompts/prompt-1C.py)
 - Experiment 2A: [prompt-2A](https://github.com/exwb/truevislies/blob/main/prompts/prompt-2A.py)
 - Experiment 2B: [prompt-2B](https://github.com/exwb/truevislies/blob/main/prompts/prompt-2B.py)
 - Experiment 2C: [prompt-2C](https://github.com/exwb/truevislies/blob/main/prompts/prompt-2C.py)
