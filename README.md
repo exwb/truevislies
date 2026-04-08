@@ -5,7 +5,7 @@
 ### Results Explorer
 To facilitate exploration of the full result set, we provide two interactive web applications, one per dataset. Each explorer allows users to browse individual visualizations, filter by model and experimental condition, and inspect per-item verdict distributions and intent or rhetoric scores. Note that the COVID-19 explorer may take a moment to load due to the size of the dataset.
 - [COVID-19 Results Explorer](https://huggingface.co/spaces/truevislies/explorer-twitter)
-- [VisLie Results Explorer](https://huggingface.co/spaces/truevislies/explorer-vislies)
+- [VisLies Results Explorer](https://huggingface.co/spaces/truevislies/explorer-vislies)
 
 ### Results Data
 The results data are available at:
